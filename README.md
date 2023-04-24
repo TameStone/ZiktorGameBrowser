@@ -1,2 +1,6 @@
-# ZFBrowserGame
-ZFBrowserGame by TameStone(Reimplementation in Unity 2021.3.15f1)
+# ZiktorGameBrowser
+ZiktorGameBrowser by TameStone(Game Browser for Initialization Anyone Website)... Enjoy!!!
+
+## Donation
+
+Soon for TameStone :D
